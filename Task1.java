@@ -2,7 +2,7 @@ package HomeTask;
 
 import java.util.Arrays;
 
-public class Task1 {
+public class Task1 { // try to call the class the same as the presentation tells you so i can refer to the question more easiely.
     public static void main(String[] args) {
 
         int cat = 5;
@@ -15,6 +15,6 @@ public class Task1 {
         System.out.println(dog);
         System.out.println(fly);
         System.out.println(rhino);
-
+// good job! in addition you can add a message as a string to the variable to represent a more robus prunt messsage.
     }
 }
